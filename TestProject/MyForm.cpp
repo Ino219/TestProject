@@ -40,6 +40,7 @@ System::Void TestProject::MyForm::button2_Click(System::Object ^ sender, System:
 			//‰ü–¼Œãƒtƒ@ƒCƒ‹–¼‚Ìæ“¾
 			if (f_Dtail == Dtail) {
 				arr->Add(fileName);
+
 			}
 		}
 		if (arr->Count != 0) {
